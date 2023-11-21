@@ -1,13 +1,13 @@
 
 ## Hey. 👋 Nice to meet you!
 
->>>
+
 class AboutMe:
     def __init__(self):
         self.name = "Gabriel F. de Carvalho"
         self.from_location = "ANAPOLIS/GO"
         self.interests = ["tecpress", "structured network", "Gaming"]
->>>
+
 
 - 👷 Working at   Fábrica de Tecnologia Turing
 - :nerd_face: Studying Software Engineering
