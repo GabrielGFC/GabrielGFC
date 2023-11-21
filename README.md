@@ -1,4 +1,4 @@
-![](https://github.com/GabrielGFC/GabrielGFC/blob/main/BANNER.png) 
+![]() 
 ## Hey. 👋 Nice to meet you!
 ```py
 class AboutMe:
