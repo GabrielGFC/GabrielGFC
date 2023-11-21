@@ -23,7 +23,7 @@ class AboutMe:
   <img align="center" alt="GabrielGfc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GabrielGfc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="GabrielGfc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="GabrielGfc-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1150486916572135494/1176612757869695027/OIG.-removebg-preview.png?ex=656f8105&is=655d0c05&hm=376868547b8ed88b62ec5a81a7329643e889e1fa2aae3e029ff2d52f3ca39424&">
+  <img align="right" alt="GabrielGfc-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1150486916572135494/1176612757869695027/OIG.-removebg-preview.png?ex=656f8105&is=655d0c05&hm=376868547b8ed88b62ec5a81a7329643e889e1fa2aae3e029ff2d52f3ca39424&=">
 </div>
 
   ##
