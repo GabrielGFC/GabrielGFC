@@ -1,6 +1,7 @@
  <img alt="BANNER-imag" height="420" width="1800" src="https://github.com/GabrielGFC/GabrielGFC/blob/main/BANNER.png">
-## Hey. 👋 Nice to meet you!
-```py
+Hey. 👋 Nice to meet you!
+
+```python
 class AboutMe:
     def __init__(self):
         self.name = "Gabriel F. de Carvalho"
