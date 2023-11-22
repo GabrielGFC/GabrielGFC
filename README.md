@@ -1,4 +1,4 @@
- <img alt="BANNER-imag" height="80" width="400" src="https://github.com/GabrielGFC/GabrielGFC/blob/main/BANNER.png">
+ <img alt="BANNER-imag" height="880" width="800" src="https://github.com/GabrielGFC/GabrielGFC/blob/main/BANNER.png">
 ## Hey. 👋 Nice to meet you!
 ```py
 class AboutMe:
