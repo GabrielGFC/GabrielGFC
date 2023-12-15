@@ -1,11 +1,4 @@
-
 Hey. 👋 Nice to meet you!
-<h3 align="center">Um apaixonado desenvolvedor back-end do Brasil</h3>
-
-<p align="esquerda"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username =gabrielgfc" alt="gabrielgfc" /></a> </p>
-
-<p align="esquerda"> <a href="https://twitter.com/" target="em branco"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt=" /></a> </p>
-
 
 ```python
 class AboutMe:
@@ -15,11 +8,24 @@ class AboutMe:
         self.interests = ["tecpress", "structured network", "Gaming"]
 ```
 
-- - 🔭 Atualmente estou trabalhando na [Fábrica de Tecnologia Turing - FTT]
+- 👷 Working at   Fábrica de Tecnologia Turing
 - :nerd_face: Studying Software Engineering
 - :genie: Learning `.py`, `.js`, `.html` and more!
+- ⚡ Let's get connected!
 
-<h3 align="left">Conecte-se comigo:</h3></p><h3 align="left">Idiomas e ferramentas: </h3><p align="esquerda"> <a href="https://www.w3schools.com/cs/" alvo="_em branco" rel="noreferrer" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" largura="40" altura="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" alvo="_em branco" rel="noreferrer" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" largura="40" altura="40"/> </a> <a href="https://nodejs.org" alvo="_em branco" rel="noreferrer" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" largura="40" altura="40"/> </a> <a href="https://www.python.org" alvo="_em branco" rel="noreferrer" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" largura="40" altura="40"/> </a> <a href="https://www.typescriptlang.org/" alvo="_em branco" rel="noreferrer" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="datilografado" largura="40" altura="40"/> </a> </p><p><img align="esquerda" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielgfc&show_icons=true&locale=en&layout=compact" alt="gabrielgfc" /></p><p> <img align="centro" src="https://github-readme-stats.vercel.app/api?username=gabrielgfc&show_icons=true&locale=en" alt="gabrielgfc" /></p><p><img align="centro" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielgfc&" alt="gabrielgfc" //></p>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="GabrielGfc-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="GabrielGfc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="GabrielGfc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="GabrielGfc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="GabrielGfc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="GabrielGfc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="GabrielGfc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="GabrielGfc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="right" alt="GabrielGfc-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1150486916572135494/1176613423317004418/a0b6a802-be7d-4c82-a0de-77733eff7eb3-removebg-preview.png?ex=656f81a4&is=655d0ca4&hm=82c9a0dddfebdb34857a6d4c48cf17fcd888fe3c0c26b4ecbaaf93dde3459611&=&width=411&height=411">
+</div>
+
   ##
  
 <div> 
