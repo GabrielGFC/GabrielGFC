@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/i3sbNAX.gif" />
+
 Hey. 👋 Nice to meet you!
 
 ```python
