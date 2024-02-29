@@ -23,7 +23,7 @@ class AboutMe:
   <img align="center" alt="GabrielGfc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GabrielGfc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="GabrielGfc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="GabrielGfc-pic" height="150" style="border-radius:50px;" src=https://avatars.githubusercontent.com/u/143818850?s=400&u=46ef11855d2cae75bcb3fc4d61a594fce34065f0&v=4">
+  <img align="right" alt="GabrielGfc-pic" height="150" border-radius:50px; src=https://avatars.githubusercontent.com/u/143818850?s=400&u=46ef11855d2cae75bcb3fc4d61a594fce34065f0&v=4">
 </div>
 
   ##
