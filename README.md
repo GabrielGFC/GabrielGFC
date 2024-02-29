@@ -1,4 +1,4 @@
-<img align="center" src="https://i.imgur.com/i3sbNAX.gif"/>
+<img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/811056349900359440/45AA9FDEC94DBC5FAC5848FC007106035C264563/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
 
 Hey. 👋 Nice to meet you!
 
@@ -10,7 +10,7 @@ class AboutMe:
         self.interests = ["tecpress", "structured network", "Gaming"]
 ```
 
-- 👷 Working at   Fábrica de Tecnologia Turing
+- 👷 Working at Fábrica de Tecnologia Turing
 - :nerd_face: Studying Software Engineering
 - :genie: Learning `.py`, `.js`, `.html` and more!
 - ⚡ Let's get connected!
@@ -18,14 +18,12 @@ class AboutMe:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="GabrielGfc-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="GabrielGfc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="GabrielGfc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="GabrielGfc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="GabrielGfc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="GabrielGfc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GabrielGfc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="GabrielGfc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="GabrielGfc-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1150486916572135494/1176613423317004418/a0b6a802-be7d-4c82-a0de-77733eff7eb3-removebg-preview.png?ex=656f81a4&is=655d0ca4&hm=82c9a0dddfebdb34857a6d4c48cf17fcd888fe3c0c26b4ecbaaf93dde3459611&=&width=411&height=411">
+  <img align="right" alt="GabrielGfc-pic" height="150" style="border-radius:50px;" src=https://avatars.githubusercontent.com/u/143818850?s=400&u=46ef11855d2cae75bcb3fc4d61a594fce34065f0&v=4">
 </div>
 
   ##
