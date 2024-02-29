@@ -1,4 +1,4 @@
-<img align="center" height="150" width="100%" src="https://steamuserimages-a.akamaihd.net/ugc/869620686854864740/4C7EFE52C1794B127624C40CB80D441FF9A9106A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
+<img align="center" height="400" width="100%" src="https://steamuserimages-a.akamaihd.net/ugc/869620686854864740/4C7EFE52C1794B127624C40CB80D441FF9A9106A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
 
 Hey. 👋 Nice to meet you!
 
