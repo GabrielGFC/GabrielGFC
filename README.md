@@ -1,43 +1,63 @@
-<img align="center" height="25%" width="25%" src="https://steamuserimages-a.akamaihd.net/ugc/869620686854864740/4C7EFE52C1794B127624C40CB80D441FF9A9106A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
+<img align="right" height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/89d8a336589167.57545d7b953e2.gif"  />
 
-Hey. 👋 Nice to meet you!
+###
 
-```python
-class AboutMe:
-    def __init__(self):
-        self.name = "Gabriel F. de Carvalho"
-        self.from_location = "ANAPOLIS/GO"
-        self.interests = ["tecpress", "structured network", "Gaming"]
-```
+<h1 align="left">👩‍💻 About Me</h1>
 
-- 👷 Working at Fábrica de Tecnologia Turing
-- :nerd_face: Studying Software Engineering
-- :genie: Learning `.py`, `.js`, `.html` and more!
-- ⚡ Let's get connected!
+###
 
+<p align="left">🙂Gabriel F. de Carvalho<br>📍 Anápolis-GO<br>👷 Working at Fábrica de Tecnologia Turing<br>🤓 Studying Software Engineering</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="GabrielGfc-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="GabrielGfc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="GabrielGfc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="GabrielGfc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GabrielGfc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="GabrielGfc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="GabrielGfc-pic" height="150" border-radius:50px; src="https://avatars.githubusercontent.com/u/143818850?s=400&u=46ef11855d2cae75bcb3fc4d61a594fce34065f0&v=4">
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-de-carvalho-a4b9042a0/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/gabrielcarvalhofr/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="20" alt="instagram logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#sent?compose=CllgCJqZhvJMNhlWFqMLFfZWcKBJvRKnLdBHZhHTTCZfFnLvFKbCkdWPMJGNdwxwRNRbCVCBTvV" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="20" alt="gmail logo"  />
+  </a>
 </div>
 
-  ##
- 
-<div> 
-  <a href="https://instagram.com/gabrielcarvalhofr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/users/sentinela4799" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:carvalhogabrielgfc1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://br.linkedin.com/in/gabriel-de-carvalho-a4b9042a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  
-</div>
-<div align="left"> 
-  <p> <img src="https://komarev.com/ghpvc/?username=GabrielGFC&color=blueviolet" alt="GabrielGFC"/> </p>
+###
+
+<br clear="both">
+
+<img align="right" src="https://profile-counter.glitch.me/gabrielgfc/count.svg?"  />
+
+###
+
+<h2 align="left">🛠 Language and Tools</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-  ## That's all Folks!
+###
