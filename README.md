@@ -3,15 +3,9 @@
 <img align="right" height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/89d8a336589167.57545d7b953e2.gif"  />
 <p align="left">🙂Gabriel F. de Carvalho<br>📍 Anápolis-GO<br>👷 Working at Fábrica de Tecnologia Turing<br>🤓 Studying Software Engineering</p>
 <div align="center">
-    <a href="https://www.linkedin.com/in/gabriel-de-carvalho-a4b9042a0/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="70" height="20" />
-   </a>
-  <a href="https://www.instagram.com/gabrielcarvalhofr/"">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="70" height="20" />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#sent?compose=CllgCJqZhvJMNhlWFqMLFfZWcKBJvRKnLdBHZhHTTCZfFnLvFKbCkdWPMJGNdwxwRNRbCVCBTvV" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" width="70" height="20"   />
-  </a>
+    <a href="https://www.instagram.com/gabrielcarvalhofr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "https://mail.google.com/mail/u/0/#sent?compose=CllgCJqZhvJMNhlWFqMLFfZWcKBJvRKnLdBHZhHTTCZfFnLvFKbCkdWPMJGNdwxwRNRbCVCBTvV"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-de-carvalho-a4b9042a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br clear="both">
 <img align="right" src="https://profile-counter.glitch.me/gabrielgfc/count.svg?"  />
