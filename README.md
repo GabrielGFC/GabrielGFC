@@ -1,6 +1,6 @@
 
 <h1 align="left">👩‍💻 About Me</h1>
-<img align="right" height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/89d8a336589167.57545d7b953e2.gif"  />
+<img align="right" height="200" src="https://images.ctfassets.net/b4k16c7lw5ut/61X6cPeCANHior5BTSkvCQ/3499b68fa4eddd88b0b026682ed14960/Hello_GIF.gif"  />
 <p align="left">🙂Gabriel F. de Carvalho<br>📍 Anápolis-GO<br>👷 Working at Fábrica de Tecnologia Turing<br>🤓 Studying Software Engineering</p>
 <div align="center">
     <a href="https://www.instagram.com/gabrielcarvalhofr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
