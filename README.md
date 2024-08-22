@@ -1,11 +1,10 @@
-
 <h1 align="left">👩‍💻 About Me</h1>
 <img align="right" height="200" src="https://i.pinimg.com/originals/4d/00/df/4d00df1f7eaf65ec63cae3739773e6c1.gif"  />
 <p align="left">🙂Gabriel F. de Carvalho<br>📍 Anápolis-GO<br>👷 Working at BAAN<br>🤓 Studying Software Engineering</p>
 <div align="center">
     <a href="https://www.instagram.com/gabrielcarvalhofr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "https://mail.google.com/mail/u/0/#sent?compose=CllgCJqZhvJMNhlWFqMLFfZWcKBJvRKnLdBHZhHTTCZfFnLvFKbCkdWPMJGNdwxwRNRbCVCBTvV"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-de-carvalho-a4b9042a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="mailto:carvalhogabrielgfc@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/gabriel-de-carvalho-a4b9042a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br clear="both">
 <img align="right" src="https://profile-counter.glitch.me/gabrielgfc/count.svg?"  />
