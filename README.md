@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/gabriel-de-carvalho-a4b9042a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br clear="both">
-<img align="right" src="https://profile-counter.glitch.me/gabrielgfc/count.svg?"  />
+<img align="right" src="https://profile-counter.glitch.me/gabrielgf/count.svg?"  />
 <h2 align="left">🛠 Language and Tools</h2>
 <br clear="both">
 <div align="center">
