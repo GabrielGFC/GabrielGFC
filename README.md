@@ -1,13 +1,7 @@
 <br clear="both">
 
 <img align="right" height="335" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"  />
-
-###
-
 <h3 align="left">👩‍💻 About Me</h3>
-
-###
-
 <p align="left">🙂Gabriel F. de Carvalho<br>📍 Anápolis-GO<br>👷 Working at BAAN<br>🤓 Studying Software Engineering<br>📱  My media:</p>
 
 ###
