@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="250" src="https://i0.wp.com/user-images.githubusercontent.com/54291836/126888345-10183721-0984-40c3-82bf-20c147897c6c.gif?w=1250&ssl=1"  />
+<img align="right" height="180" src="https://i0.wp.com/user-images.githubusercontent.com/54291836/126888345-10183721-0984-40c3-82bf-20c147897c6c.gif?w=1250&ssl=1"  />
 <h3 align="left">👩‍💻 About Me</h3>
 <p align="left">🙂Gabriel F. de Carvalho<br>📍 Anápolis-GO<br>👷 Working at BAAN<br>🤓 Studying Software Engineering<br>📱  My media:</p>
 
