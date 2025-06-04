@@ -3,23 +3,13 @@
 <img align="right" height="225" src="https://i0.wp.com/user-images.githubusercontent.com/54291836/126888345-10183721-0984-40c3-82bf-20c147897c6c.gif?w=1250&ssl=1"  />
 <h3 align="left">👩‍💻 About Me</h3>
 <p align="left">🙂Gabriel F. de Carvalho<br>📍 Anápolis-GO<br>👷 Working at BAAN<br>🤓 Studying Software Engineering<br>📱  My media:</p>
-
-###
-
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/gabrielgfc1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://www.hackerrank.com/gabriel_fernand6" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="30" alt="hackerrank logo"  />
   </a>
-  <a href="https://tryhackme.com/r/p/gabrielgfc" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=A020F0&logoColor=white&labelColor=&style=flat" height="30" alt="tryhackme logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
-</div>
-
-###
 
 <p align="left">🛠 Language and Tools</p>
 
