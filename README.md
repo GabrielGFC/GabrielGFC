@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="225" src="https://i.pinimg.com/originals/1a/ab/cd/1aabcd3e9a3eab997c2220b6b2630a3c.gif"  />
+<img align="right" height="225" src="https://cdn.dribbble.com/userupload/31781479/file/original-189f198efebcca7781eaee4a012adfc1.gif"  />
 <h3 align="left">👩‍💻 About Me</h3>
 <p align="left">🙂Gabriel F. de Carvalho<br>📍 Anápolis-GO<br>👷 Working at BAAN<br>🤓 Studying Software Engineering<br>📱  My media:</p>
 <div align="left">
